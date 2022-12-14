@@ -11,7 +11,7 @@
 </div>
 
 <div id="languages and tools">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"/>&nbsp;
 </div>
 
 
