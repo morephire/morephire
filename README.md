@@ -12,7 +12,7 @@
 
 <div id="languages and tools">
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.original" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain-wordmark.svg" width="40" height="40"/>
 </div>
 
 
