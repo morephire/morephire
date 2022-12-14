@@ -12,6 +12,7 @@
 
 <div id="languages and tools">
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="40" height="40"/>
+  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" width= "40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-plain-wordmark.svg" width= "40" height="40"/>
 </div>
