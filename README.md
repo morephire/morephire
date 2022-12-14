@@ -12,6 +12,9 @@
   <a href="https://www.hackerrank.com/jazzbspec">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
   </a>
+  <a href="https://github.com/morephire">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  </a>
   <div>
       <img src="https://komarev.com/ghpvc/?username=morephire&style=flat-square&color=blue"/>
   </div>
