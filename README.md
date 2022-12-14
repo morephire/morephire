@@ -4,10 +4,14 @@
 - 💞️ I’m looking to collaborate on... whatever. I want to gather some experience in collaborative projects.
 - 📫 How to reach me: luca.marfia@outlook.com 
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/luca-marfia-5973491ba/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+</div>
+
+<div id="languages and tools">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"/>
 </div>
 
 
