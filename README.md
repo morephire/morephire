@@ -1,8 +1,8 @@
 ### :technologist: About me:
-- 👋 Hi, I’m @morephire. Just a guy who likes to code and dreams to become Software Engineer, and maybe Pen Tester 
+- 👋 Hi, I’m @morephire. Just a guy who likes to code and dreams to become Software Engineer, and maybe Pen Tester. 
 - 👀 I’m interested in Cyber Security and Coding!
-- 🌱 I’m currently learning a bit of everything
-- 💞️ I’m looking to collaborate on a project. I want to gather some experience in collaborative projects.
+- 🌱 I’m currently learning Python and strenghten my knowledge of C#.
+- 💞️ I’m looking to collaborate on a project. I want to gather some experience for a future carrer as developer.
 - 📫 You can reach me on LinkedIn!
 
 <div id="badges" align="center">
@@ -14,6 +14,9 @@
   </a>
   <a href="https://github.com/morephire">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://exercism.org/profiles/intro">
+    <img src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white">
   </a>
   <div>
       <img src="https://komarev.com/ghpvc/?username=morephire&style=flat-square&color=blue"/>
