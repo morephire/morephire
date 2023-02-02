@@ -4,7 +4,7 @@
 
 ### :technologist: About me:
 - 👋 Hi, I’m @morephire. Just a guy who likes to code and dreams to become Software Engineer, and maybe Pen Tester. 
-- 👀 I’m interested in Cyber Security and Coding!
+- 👀 I’m interested in Cyber Security, Blockchain and Coding!
 - 🌱 I’m currently learning Python and strenghten my knowledge of C#.
 - 💞️ I’m looking to collaborate on a project. I want to gather some experience for a future carrer as developer.
 - 📫 You can reach me on LinkedIn!
